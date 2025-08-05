@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Form Container */
+form {
+    background: #fff;
+    width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Header */
+h1, h3 {
+    text-align: center;
+    color: #333;
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+/* Input Fields */
+input[type="text"], select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Error Messages */
+p[id^="error_"] {
+    color: red;
+    font-size: 14px;
+}
+
+/* Buttons */
+input[type="submit"], input[type="reset"], a {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Pay Button */
+input[type="submit"] {
+    background: #28a745;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background: #218838;
+}
+
+/* Reset Button */
+input[type="reset"] {
+    background: #dc3545;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="reset"]:hover {
+    background: #c82333;
+}
+
+/* Back Link */
+a {
+    background: #007bff;
+    color: white;
+}
+
+a:hover {
+    background: #0056b3;
+}

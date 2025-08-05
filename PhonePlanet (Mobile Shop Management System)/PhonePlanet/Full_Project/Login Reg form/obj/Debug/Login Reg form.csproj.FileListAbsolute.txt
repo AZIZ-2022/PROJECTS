@@ -1,0 +1,364 @@
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form+Admin\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+D:\C# project\Customer\Login Reg +Admin+Customer 2\Login Reg +Admin+Customer\Login Reg +Admin+Customer\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\Modified\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\Modified\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\Modified\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\Modified\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\HP\Desktop\Login Reg +Admin+Customer 3\Login Reg form\bin\Debug\Login Reg form.pdb
+G:\Form modified\Login Reg form\bin\Debug\Login Reg form.exe.config
+G:\Form modified\Login Reg form\bin\Debug\Login Reg form.exe
+G:\Form modified\Login Reg form\bin\Debug\Login Reg form.pdb
+G:\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+G:\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+G:\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+G:\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+G:\Form modified\Login Reg form\obj\Debug\Login Reg form.exe
+G:\Form modified\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Add_Phones.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Available_Phones.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Comparison.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerApproval.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.CustomerRecords.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Homepage.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Customer_Profile.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.DeletePhone.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Form1.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Purchase_History.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Receipt.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.SellHistory.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Stock.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.WelcomeAdmin.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login_Reg_form.Wishlist.resources
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Form modified\Form modified\Login Reg form\obj\Debug\Login Reg form.pdb

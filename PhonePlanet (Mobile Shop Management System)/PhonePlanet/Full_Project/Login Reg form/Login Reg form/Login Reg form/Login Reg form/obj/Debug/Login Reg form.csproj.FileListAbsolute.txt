@@ -1,0 +1,42 @@
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\ayanp\OneDrive\Desktop\Phone Planet\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\User\Desktop\PROJECT\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe.config
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\bin\Debug\Login Reg form.pdb
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.AssemblyReference.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Login.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Newpass_set.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Properties.Resources.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Registration.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Start.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login_Reg_form.Varify_Form.resources
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.GenerateResource.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.csproj.CoreCompileInputs.cache
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.exe
+C:\Users\ayanp\OneDrive\Desktop\Login Reg form\Login Reg form\Login Reg form\Login Reg form\obj\Debug\Login Reg form.pdb

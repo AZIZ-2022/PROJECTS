@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|c:\\users\\user\\desktop\\my projects\\c#\\phone-shop-management-project-main\\phone-shop-management-project-main\\phone planet\\project\\project for defence\\phoneplanet\\full_project\\login reg form\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|c:\\users\\user\\desktop\\my projects\\c#\\phone-shop-management-project-main\\phone-shop-management-project-main\\phone planet\\project\\project for defence\\phoneplanet\\full_project\\login reg form\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|c:\\users\\user\\desktop\\my projects\\c#\\phone-shop-management-project-main\\phone-shop-management-project-main\\phone planet\\project\\project for defence\\phoneplanet\\full_project\\login reg form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\newpass_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\newpass_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Available_Phones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:Login Reg form\\Available_Phones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Available_Phones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:Login Reg form\\Available_Phones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\login reg form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:login reg form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:Login Reg form\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\WelcomeAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:Login Reg form\\WelcomeAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\DeletePhone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A717708F-B93D-4C5C-92EE-2C789FA24CBF}|Login Reg form\\Login Reg form.csproj|solutionrelative:Login Reg form\\DeletePhone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Purchase.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Purchase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Purchase.cs",
+              "RelativeToolTip": "Login Reg form\\Purchase.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAMwE8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:59.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compare.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Compare.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Compare.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Compare.cs",
+              "RelativeToolTip": "Login Reg form\\Compare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:06:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Compare.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Compare.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Compare.cs [Design]",
+              "RelativeToolTip": "Login Reg form\\Compare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:06:10.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Form1.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\Form modified\\Form modified\\Login Reg form\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Form modified\\Form modified\\Login Reg form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:03:59.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Newpass_set.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Newpass_set.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Newpass_set.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\Form modified\\Form modified\\Login Reg form\\Newpass_set.cs [Design]",
+              "RelativeToolTip": "..\\..\\Form modified\\Form modified\\Login Reg form\\Newpass_set.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:03:58.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Receipt.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Receipt.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\Form modified\\Form modified\\Login Reg form\\Receipt.cs [Design]",
+              "RelativeToolTip": "..\\..\\Form modified\\Form modified\\Login Reg form\\Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:03:53.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Customer_Profile.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Customer_Profile.cs",
+              "ToolTip": "G:\\Form modified\\Login Reg form\\Customer_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:01:02.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Login.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Login.cs",
+              "RelativeToolTip": "Login Reg form\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:59:43.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Login.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Login.cs [Design]",
+              "RelativeToolTip": "Login Reg form\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:59:41.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Customer_Profile.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Customer_Profile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Customer_Profile.cs",
+              "RelativeToolTip": "Login Reg form\\Customer_Profile.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:43:31.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Purchase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Purchase.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Purchase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\Form modified\\Form modified\\Login Reg form\\Purchase.cs [Design]",
+              "RelativeToolTip": "..\\..\\Form modified\\Form modified\\Login Reg form\\Purchase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:55.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Available_Phones.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Available_Phones.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Available_Phones.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Available_Phones.cs",
+              "RelativeToolTip": "Login Reg form\\Available_Phones.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAnwF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:57:30.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Available_Phones.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Available_Phones.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Available_Phones.cs",
+              "ToolTip": "G:\\Form modified\\Login Reg form\\Available_Phones.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:26:30.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wishlist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Wishlist.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\Form modified\\Form modified\\Login Reg form\\Wishlist.cs [Design]",
+              "RelativeToolTip": "..\\..\\Form modified\\Form modified\\Login Reg form\\Wishlist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:07:26.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Form1.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\Form1.cs",
+              "RelativeToolTip": "Login Reg form\\Form1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwHMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:55:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WelcomeAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\WelcomeAdmin.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\WelcomeAdmin.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\WelcomeAdmin.cs",
+              "RelativeToolTip": "Login Reg form\\WelcomeAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:57:39.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeletePhone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\DeletePhone.cs",
+              "RelativeDocumentMoniker": "Login Reg form\\DeletePhone.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\MY PROJECTS\\C#\\Phone-Shop-Management-Project-main\\Phone-Shop-Management-Project-main\\PHONE PLANET\\PROJECT\\Project For Defence\\PhonePlanet\\Full_Project\\Login Reg form\\DeletePhone.cs",
+              "RelativeToolTip": "Login Reg form\\DeletePhone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:55:02.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
